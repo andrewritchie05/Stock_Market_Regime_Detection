@@ -6,6 +6,8 @@ The classic textbook example of a Markov model is the weather. We classify days 
 
 How do we estimate values of the transition probabilities in this model? We go outside and observe the weather for, say, 100 days. Each transition probability is just the number of transitions of that type we observed divided by 100. 
 
+![alt text](https://github.com/andrewritchie05/Stock_Market_Regime_Detection/blob/main/Picture1.png?raw=true)
+
 ## What is a Hidden Markov Model?
 
 Suppose now that we work/live in a windowless building. We can't directly observe the weather, so we can't establish the transition probabilities in our model anymore. However, suppose we can observe some phenomenon related to the weather, like how many people bring umbrellas to the office. Or how may people are wearing shorts or sunglasses. This tells us something about the weather, but only in terms of probability. If there's lots of umbrellas, say, it likely today it is raining but we can't say that with 100% certainty, so we must use probability.
