@@ -1,5 +1,7 @@
 # Stock Market Regime Detection using Hidden Markov Models
 
+### [At this time, I am limiting codebase access for this project to friends and potential employers. Email me, or click this link if you would like to request access to the Google Drive folder containing it :smile:](https://drive.google.com/file/d/1D44rR_IH60kL4PmiVxaADlzzcBD65fAv/view?usp=sharing)
+
 ## What is a Markov Model?
 
 The classic textbook example of a Markov model is the weather. We classify days as, say, sunny, cloudy, or raining. Then, we pick a transition period (let's assume 1 day) and determine estimates of the transition probabilities. There will be nine of these (because there are three states). So, for example, we need the probably that tomorrow will be sunny given that today is sunny, the probably that tomorrow will be cloudy given that today is sunny, and so on.
