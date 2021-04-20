@@ -24,4 +24,11 @@ We could make an (ordinary) Markov model based on umbrellas, shorts, and sunglas
 
 ![alt text](https://github.com/andrewritchie05/Stock_Market_Regime_Detection/blob/main/Picture2.png?raw=true)
 
+## Results of a backtest over the period 2000 - 2021
+
+![alt text](https://github.com/andrewritchie05/Stock_Market_Regime_Detection/blob/main/Strategy Comparison.png?raw=true)
+
+-  Blue: At the end of each period, a hidden markov model was fitted to the data and used to predict the state of the next period. The model gained the return resulting from this prediction and it's corresponding market action (long/short etc).
+- Orange: The performance of a relative strength based strategy.
+- Green: The performance of a buy and hold strategy.
 
