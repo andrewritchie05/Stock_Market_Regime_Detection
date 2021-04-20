@@ -20,4 +20,6 @@ We could make an (ordinary) Markov model based on umbrellas, shorts, and sunglas
 - Instead of Sunny/Cloudy/Rainy we will assume 3 different market states: Bull, Bear, Neutral
 -	Instead of Sunglasses/Shorts/Umbrellas, variables of interest will be those related to financial markets: OHLC/Volume/Measures of change in these etc.
 
+![alt text](https://github.com/andrewritchie05/Stock_Market_Regime_Detection/blob/main/Picture2.png?raw=true)
+
 
